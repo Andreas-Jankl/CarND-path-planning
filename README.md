@@ -19,7 +19,7 @@ Below is an image to be able what the simulator looks like.
 
 ## Result
 
-[Video of end result](https://raw.githubusercontent.com/Andreas-Jankl/CarND-path-planning/master/result.mp4)
+[Video of end result](https://github.com/Andreas-Jankl/CarND-path-planning/blob/master/result.mp4)
 
 ## Solution
 
